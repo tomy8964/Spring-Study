@@ -4,65 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11a495ad-5d8b-4e1c-bcf5-88bd5e1b4ac3" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/exception.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/form.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/item-service.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/itemservice-db.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/itemservice-db.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/jdbc.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/jdbc.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/servlet.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/springmvc.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/springtx.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/springtx.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/thymeleaf-basic.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/upload.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules/validation.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/AOP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/스프링 DB 접근 기술.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/스프링 빈과 의존관계.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/회원 관리 예제 - 백엔드 개발.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스프링 입문/회원 관리 예제 - 웹 MVC 개발.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/객체 지향 설계와 스프링.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스프링 컨테이너와 스프링 빈.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스프링 핵심 원리 이해1 - 예제 만들기.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/스프링 핵심 원리 이해2 - 객체 지향 원리 적용.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로젝트 환경설정.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../스프링 입문/스프링 웹 개발 기초.md" beforeDir="false" afterPath="$PROJECT_DIR$/../스프링 입문/스프링 웹 개발 기초.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../스프링 입문/프로젝트 환경설정.md" beforeDir="false" afterPath="$PROJECT_DIR$/../스프링 입문/프로젝트 환경설정.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="11a495ad-5d8b-4e1c-bcf5-88bd5e1b4ac3" name="Changes" comment="01.27 - 공부 내용 업데이트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 스프링 핵심 원리 이해1 - 예제 만들기.md" beforeDir="false" afterPath="$PROJECT_DIR$/2. 스프링 핵심 원리 이해1 - 예제 만들기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-01-26-22-04-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/2023-01-26-22-04-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-01-26-22-08-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/2023-01-26-22-08-13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-01-26-22-12-06.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/2023-01-26-22-12-06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023-01-26-22-19-17.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/2023-01-26-22-19-17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용.md" beforeDir="false" afterPath="$PROJECT_DIR$/3. 스프링 핵심 원리 이해2 - 객체 지향 원리 적용.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. 스프링 컨테이너와 스프링 빈.md" beforeDir="false" afterPath="$PROJECT_DIR$/4. 스프링 컨테이너와 스프링 빈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/imageFiles/img_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/객체 지향 설계와 스프링.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/스프링 컨테이너와 스프링 빈.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/스프링 핵심 원리 이해1 - 예제 만들기.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/스프링 핵심 원리 이해2 - 객체 지향 원리 적용.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로젝트 환경설정.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +53,7 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -105,11 +69,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HamGeonwook/OneDrive - gc.gachon.ac.kr/spring/project/스프링 핵심 원리 - 기본편",
+    "last_opened_file_path": "C:/Users/HamGeonwook/OneDrive - gc.gachon.ac.kr/spring/project/스프링 입문",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -124,6 +89,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HamGeonwook\OneDrive - gc.gachon.ac.kr\spring\project\스프링 핵심 원리 - 기본편" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HamGeonwook\OneDrive - gc.gachon.ac.kr\spring\project\스프링 핵심 원리 - 기본편\imageFiles" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -137,10 +105,43 @@
       <workItem from="1674732238467" duration="2686000" />
       <workItem from="1674734947096" duration="1904000" />
       <workItem from="1674736867451" duration="267000" />
+      <workItem from="1674771522189" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="01.27 - 공부 내용 업데이트">
+      <created>1674771548507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674771548508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="01.27 - 공부 내용 업데이트">
+      <created>1674771791125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674771791125</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="01.27 - 공부 내용 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.27 - 공부 내용 업데이트" />
   </component>
 </project>
