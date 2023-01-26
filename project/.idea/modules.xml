@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" />
+    </modules>
+  </component>
+</project>

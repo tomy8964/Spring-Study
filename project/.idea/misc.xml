@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/exercise-mvc2/exception" />
+    <file type="web" url="file://$PROJECT_DIR$/스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/exercise-mvc2/message" />
+    <file type="web" url="file://$PROJECT_DIR$/스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/exercise-mvc2/thymeleaf-basic" />
+    <file type="web" url="file://$PROJECT_DIR$/스프링 MVC 2편 - 백엔드 웹 개발 활용 기술/exercise-mvc2/validation" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
