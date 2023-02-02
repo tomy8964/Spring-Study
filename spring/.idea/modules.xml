@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/form.main.iml" filepath="$PROJECT_DIR$/.idea/modules/form.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/item-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/item-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itemservice-db.test.iml" filepath="$PROJECT_DIR$/.idea/modules/itemservice-db.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springtx.main.iml" filepath="$PROJECT_DIR$/.idea/modules/springtx.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springtx.test.iml" filepath="$PROJECT_DIR$/.idea/modules/springtx.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/upload.main.iml" filepath="$PROJECT_DIR$/.idea/modules/upload.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.main.iml" />
+    </modules>
+  </component>
+</project>
