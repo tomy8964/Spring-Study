@@ -11,6 +11,8 @@ spring:
       hibernate:
 #        show_sql: true (systemOut 찍음)
         format_sql: true
+    repositories:
+      bootstrap-mode: default
 
 logging:
   level:
