@@ -1,5 +1,5 @@
 # Spring Study 
-
+> 현재 목차가 제대로 작동하지 않습니다 추후에 수정하겠습니다
 ## 💻 우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복 로드맵  
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white"/>  
