@@ -27,9 +27,8 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
 </div>  
 
-* [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/tomy8964/Spring-Study/tree/master/spring%20boot%20%26%20JPA/jpa
-)
-* [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](https://github.com/tomy8964/Spring-Study/tree/master/spring%20boot%20%26%20JPA/jpa%20%ED%99%9C%EC%9A%A9%201)
+* [자바 ORM 표준 JPA 프로그래밍 - 기본편](./spring%20boot%20&%20JPA/자바%20ORM%20표준%20JPA%20프로그래밍%20-%20기본편/README.md)
+* [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](./spring%20boot%20&%20JPA/스프링%20부트와%20JPA%20활용1%20-%20웹%20애플리케이션%20개발/README.md)
 * 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
 * 실전! 스프링 데이터 JPA
 * 실전! Querydsl

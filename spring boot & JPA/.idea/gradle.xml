@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발/jpashop" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발/jpashop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
