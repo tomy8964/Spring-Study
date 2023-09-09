@@ -1,21 +1,17 @@
 spring:
   datasource:
-    url: jdbc:h2:tcp://localhost/~/jpashop;
+    url: jdbc:h2:tcp://localhost/~/jpashop
     username: sa
     password:
-    driver-class-name: org.h2.Driver
-    thymeleaf:
-    prefix: classpath:/templates/
-    suffix: .html
+    driverClassName: org.h2.Driver
+
   jpa:
     hibernate:
-      ddl-auto: create
+      ddlAuto: create
     properties:
       hibernate:
-#        show_sql: true (systemOut 찍음)
+#        show_sql: true
         format_sql: true
-    repositories:
-      bootstrap-mode: default
 
 logging:
   level:

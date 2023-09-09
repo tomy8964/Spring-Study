@@ -1,18 +1,18 @@
-#spring:
+spring:
+#  자동으로 메모리 DB 사용!!
 #  datasource:
 #    url: jdbc:h2:mem:test
 #    username: sa
 #    password:
-#    driver-class-name: org.h2.Driver
+#    driverClassName: org.h2.Driver
+#
 #  jpa:
 #    hibernate:
-#      ddl-auto: create-drop
+#      ddlAuto: create-drop
 #    properties:
 #      hibernate:
-##        show_sql: true (systemOut 찍음)
+#        #        show_sql: true
 #        format_sql: true
-#    repositories:
-#      bootstrap-mode: default
 
 logging:
   level:
