@@ -151,9 +151,58 @@ public class Order {
   - 스프링 부트는 datasource 설정이 없으면, 기본적으로 메모리 DB를 사용하고, driver-class도 현재 등록된 라이브러리를 보고 찾아준다. 추가로 `ddl-auto`도 `create-drop` 모드로 동작한다. 따라서 데이터 소스나, JPA 관련된 별도의 추가 설정을 하지 않아도 된다.
 
 ## 웹 계층 개발
+```java
+@GetMapping(value = "/members")
+ public String list(Model model) {
+   List<Member> members = memberService.findMembers();
+   model.addAttribute("members", members);
+   return "members/memberList";
+ }
+```
+- 조회한 상품을 뷰에 전달하기 위해 스프링 MVC가 제공하는 모델( Model ) 객체에 보관
+- 실행할 뷰 이름을 반환
 
+### 폼 객체 vs 엔티티 직접 사용
+- 실무에서 **엔티티는 핵심 비즈니스 로직만 가지고 있고, 화면을 위한 로직은 없어야 한다.**
+- 화면이나 API에 맞는 폼 객체나 DTO를 사용하자
+
+### 변경 감지와 병합(merge)
+#### 준영속 엔티티?
+- 영속성 컨텍스트가 더는 관리하지 않는 엔티티를 말한다.
+#### 준영속 엔티티를 수정하는 2가지 방법
+- 변경 감지 기능 사용 (dirty check)
+- 병합(merge) 사용
+
+#### 변경 감지 기능 사용
+```java
+@Transactional
+void update(Item itemParam) { //itemParam: 파리미터로 넘어온 준영속 상태의 엔티티
+  Item findItem = em.find(Item.class, itemParam.getId()); //같은 엔티티를 조회한다.
+  findItem.setPrice(itemParam.getPrice()); //데이터를 수정한다.
+}
+```
+- 영속성 컨텍스트(Transaction)에서 엔티티를 다시 조회한 후에 데이터를 수정하는 방법
+- 트랜잭션 안에서 엔티티를 다시 조회, 변경할 값 선택 트랜잭션 커밋 시점에 변경 감지(Dirty Checking)이 동작해서 데이터베이스에 UPDATE SQL 실행
+
+#### 병합 사용
+```java
+@Transactional
+void update(Item itemParam) { //itemParam: 파리미터로 넘어온 준영속 상태의 엔티티
+    Item mergeItem = em.merge(itemParam);
+}
+```
+- 병합은 준영속 상태의 엔티티를 영속 상태로 변경할 때 사용하는 기능이다.
+> 주의: 변경 감지 기능을 사용하면 원하는 속성만 선택해서 변경할 수 있지만, 병합을 사용하면 **모든 속성이
+변경된다**. 병합시 값이 없으면 null 로 업데이트 할 위험도 있다. (병합은 모든 필드를 교체한다.)
+
+### 실무에서 사용 -> 변경 감지
+- 컨트롤러에서 어설프게 엔티티를 생성하지 마세요.
+- 트랜잭션이 있는 서비스 계층에 식별자( id )와 변경할 데이터를 명확하게 전달하세요.(파라미터 or dto)
+- 트랜잭션이 있는 서비스 계층에서 영속 상태의 엔티티를 조회하고, 엔티티의 데이터를 직접 변경하세요.
+- 트랜잭션 커밋 시점에 변경 감지가 실행됩니다.
 
 ----
+
 
 * 개발환경
 
