@@ -1,0 +1,20 @@
+spring:
+#  자동으로 메모리 DB 사용!!
+#  datasource:
+#    url: jdbc:h2:mem:test
+#    username: sa
+#    password:
+#    driverClassName: org.h2.Driver
+#
+#  jpa:
+#    hibernate:
+#      ddlAuto: create-drop
+#    properties:
+#      hibernate:
+#        #        show_sql: true
+#        format_sql: true
+
+logging:
+  level:
+    org.hibernate.SQL: debug
+    org.hibernate.type: trace
