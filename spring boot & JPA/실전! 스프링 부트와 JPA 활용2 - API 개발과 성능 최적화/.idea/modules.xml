@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpabook.jpashop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpabook.jpashop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpashop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpashop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화.iml" filepath="$PROJECT_DIR$/.idea/실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화.iml" />
+    </modules>
+  </component>
+</project>
