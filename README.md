@@ -30,4 +30,4 @@
 * [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발](./spring%20boot%20&%20JPA/스프링%20부트와%20JPA%20활용1%20-%20웹%20애플리케이션%20개발/README.md)
 * [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화](./spring%20boot%20&%20JPA/실전!%20스프링%20부트와%20JPA%20활용2%20-%20API%20개발과%20성능%20최적화/README.md)
 * [실전! 스프링 데이터 JPA](./spring%20boot%20&%20JPA/실전!%20스프링%20데이터%20JPA/README.md)
-* 실전! Querydsl
+* [실전! Querydsl](./spring%20boot%20&%20JPA/실전!%20Querydsl/README.md)
